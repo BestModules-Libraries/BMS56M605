@@ -1,13 +1,13 @@
 <div align=center>
-<img src="https://github.com/BestModules-Libraries/img/blob/main/BMH23M001_V1.0.png" width="320" height="240"> 
+<img src="https://github.com/BestModules-Libraries/img/blob/main/BMS56M605_V1.0.png" width="320" height="240"> 
 </div> 
 
-BMH23M001 
+BMS56M605 
 ===========================================================
 
-The Best Modules BMH23M001 is a high precision 24-bit ADC module, which uses the I2C communication method. This document provides the description of the BMH23M001 Arduino Lib functions and how to install the Arduino Lib. The example demonstrates the function of obtaining the sensor AD value.
+The BMS56M605 is a gyroscope and accelerometer module from Best Modules, which uses the I2C communication method. This document provides the description of the BMS56M605 Arduino Lib functions and how to install the Arduino Lib. The example demonstrates the functions of reading the 6-axis data and motion detection.
 
-This library can be installed via the Arduino Library manager. Search for **BMH23M001**. 
+This library can be installed via the Arduino Library manager. Search for **BMS56M605**. 
 
 Repository Contents
 -------------------
@@ -20,7 +20,7 @@ Repository Contents
 Documentation 
 -------------------
 
-* **[BMH23M001 Arduino Library V1.0.1 Description v100]( https://www.bestmodulescorp.com/bmh23m001.html#tab-product2 )** - Arduino Library Description.
+* **[BMS56M605 Arduino Library V1.0.1 Description v100]( https://www.bestmodulescorp.com/bms56m605.html#tab-product2 )** - Arduino Library Description.
 
 Version History  
 -------------------
